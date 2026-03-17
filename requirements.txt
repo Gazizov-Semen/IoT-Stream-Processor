@@ -1,0 +1,16 @@
+# Основные зависимости
+PyQt5==5.15.9
+pyqtgraph==0.13.3
+numpy==1.24.3
+
+# Kafka зависимости
+confluent-kafka==2.3.0
+
+# Flink зависимости
+apache-flink==1.17.1
+
+pyflink
+
+# Для скачивания
+certifi>=2023.0.0
+urllib3>=2.0.0
